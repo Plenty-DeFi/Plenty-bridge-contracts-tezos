@@ -1,7 +1,7 @@
 # TL;DR
 
 In this repository you'll find all tezos contracts in use in Plenty Bridge.
-$WRAP protocol let you import ERC20 and ERC721 from ethereum to tezos, using a strong federation to secure the assets. 
+Plenty Bridge let you import ERC20 and ERC721 from ethereum to tezos, using a strong federation to secure the assets. 
 
 Compile contracts :
 
