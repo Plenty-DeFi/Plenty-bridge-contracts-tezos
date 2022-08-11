@@ -19,8 +19,6 @@ brew tap cuber/homebrew-libsecp256k1
 brew install libsodium libsecp256k1 gmp
 ```
 
-We have a little bit more [documentation](https://github.com/Plenty-DeFi/Plenty-bridge-contracts-tezos/wiki)
-
 # Repository structure:
 
 * `/src`: python utils to deploy and interact with different contracts. 
